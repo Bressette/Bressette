@@ -1,7 +1,7 @@
 ### Hello, I'm [Johnathan][website]
 
 ## I'm a Software Developer and Computer Science Student
-- Senior at Florida Polytechnic University
+- I'm a senior at Florida Polytechnic University
 - I'm currently working on a Research Project on Autonomous Vehicle Control in Vehicle Ad-hoc Networks
 - I'm currently learning Java Spring
 - I'm a [PC Enthusiast][build]
