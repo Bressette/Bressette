@@ -1,9 +1,8 @@
 ### Hello, I'm [Johnathan][website]
 
-## I'm a Software Developer and Computer Science Student
-- I'm a senior at Florida Polytechnic University
-- I'm currently working on a Research Project on Autonomous Vehicle Control in Vehicle Ad-hoc Networks
-- I'm currently learning Java Spring
+## I'm a Software Developer
+- I'm a Full Stack Developer at FedEx
+- I'm currently working on an audio chat app
 - I'm a [PC Enthusiast][build]
 
 ### Languages and Tools:
@@ -27,7 +26,7 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bressette&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img align="left" alt="Bressette's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bressette&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 [website]: https://johnathancodes.com
 [build]: https://pcpartpicker.com/list/XrPQmg
