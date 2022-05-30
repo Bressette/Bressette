@@ -1,8 +1,6 @@
 ### Hello, I'm [Johnathan][website]
 
-![My Discord](https://dcbadge.vercel.app/api/shield/304475016936816640)
-
-![My Current Discord Status](https://api.jommer.chat/discordStatus/getDiscordStatus/304475016936816640)
+![My Discord](https://api.jommer.chat/discordStatus/getDiscordStatus/304475016936816640)
 
 ## I'm a Software Developer
 - I'm a Full Stack Developer at FedEx
