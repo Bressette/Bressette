@@ -1,6 +1,6 @@
 ### Hello, I'm [Johnathan][website]
 
-![My Discord](https://api.jommer.chat/discordStatus/getDiscordStatus/304475016936816640)
+<img align="left" alt="Bressette's Discord" src="https://api.jommer.chat/discordStatus/getDiscordStatus/304475016936816640" />
 
 ## I'm a Software Developer
 - I'm a Full Stack Developer at FedEx
